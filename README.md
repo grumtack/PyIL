@@ -16,4 +16,4 @@ He likes eating pizza.
 
 Output:
 He likes eating pizza.
-他 喜欢   吃     比萨并。
+他 喜欢   吃     比萨并。 
