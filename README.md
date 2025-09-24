@@ -11,9 +11,5 @@ Example:
 python pyil.py --max-length 50 --lines-per-block 2 Test.txt   
    
 Test.txt   
-```He likes eating pizza.   
-他 喜欢 吃 比萨并。```
-   
-Output:   
-```He likes eating pizza.   
-他 喜欢   吃     比萨并。```
+He likes eating pizza.   
+他 喜欢 吃 比萨并。
